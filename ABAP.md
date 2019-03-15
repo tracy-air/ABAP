@@ -1,5 +1,5 @@
 # ABAP LEARNING RECORDS
-### TIPS：
+## TIPS：
 - **快捷键** :
     - Shift + F1 : 格式化
     - Ctrl + F1 : 编辑/查看切换
@@ -9,7 +9,7 @@
     - Ctrl + 「< / >」 : 批量注释/取消注释
     - Ctrl + D : 快速复制粘贴选择的某一行代码
 
-### TECHNICAL SUMMARY：
+## TECHNICAL SUMMARY：
 - **创建内表时：先定义结构，按参照结构定义内表**
 - **对标准数据库表的修改，需要调用BAPI处理**
 - **数据处理需要先分组，不能一行一行调用BAPI处理，因为系统存在缓存，修改单据是需要锁定后才能处理。
