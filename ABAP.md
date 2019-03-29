@@ -22,3 +22,5 @@
     - _变量命名要规范，固定使用一种。g代表全局，l代表本地，w代表工作区，t代表内表 ;_
     - _方法命名：用名词 + 动词，eg: `frm_check_data`;_
 ***
+- **alv实现方法**
+    - [ABAP ALV分类以及对应的函数，类小结](http://www.baidusap.com/abap/alv/4709 "ABAP ALV")
