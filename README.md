@@ -1,3 +1,1 @@
-# Tracy-Repository-A
-# Personal records
-# Program & Technology & knowledge
+### ABAP Learning and Recording
